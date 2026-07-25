@@ -46,7 +46,7 @@ The cleaned data was loaded into MS SQL Server, and the following business quest
 
 ## Dashboard Screenshot
 
-![Customer Behavior Dashboard]([images/dashboard.png](https://github.com/user-attachments/assets/c051c0f7-6a88-4317-b951-aaa56a2d2ed8)
+![Customer Behavior Dashboard](https://github.com/user-attachments/assets/c051c0f7-6a88-4317-b951-aaa56a2d2ed8)
 
 ## Insights
 
